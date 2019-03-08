@@ -1,0 +1,8 @@
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\ApplicationEjer\ApplicationEjer\bin\Debug\ApplicationEjer.exe.config
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\ApplicationEjer\ApplicationEjer\bin\Debug\ApplicationEjer.exe
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\ApplicationEjer\ApplicationEjer\bin\Debug\ApplicationEjer.pdb
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\ApplicationEjer\ApplicationEjer\bin\Debug\ClassLibrary1.dll
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\ApplicationEjer\ApplicationEjer\bin\Debug\ClassLibrary1.pdb
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\ApplicationEjer\ApplicationEjer\obj\Debug\ApplicationEjer.csprojResolveAssemblyReference.cache
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\ApplicationEjer\ApplicationEjer\obj\Debug\ApplicationEjer.exe
+c:\users\danie\onedrive\documentos\visual studio 2015\Projects\ApplicationEjer\ApplicationEjer\obj\Debug\ApplicationEjer.pdb

@@ -6,3 +6,6 @@ C:\Users\danie\onedrive\documentos\visual studio 2015\Projects\Application2\Appl
 C:\Users\danie\onedrive\documentos\visual studio 2015\Projects\Application2\Application2\obj\Debug\Application2.pdb
 C:\Users\danie\onedrive\documentos\visual studio 2015\Projects\Application2\Application2\bin\Debug\ClassLibrary1.dll
 C:\Users\danie\onedrive\documentos\visual studio 2015\Projects\Application2\Application2\bin\Debug\ClassLibrary1.pdb
+C:\Users\danie\OneDrive\Documentos\GitHub\Trabajos\Application2\Application2\bin\Debug\Application2.exe.config
+C:\Users\danie\OneDrive\Documentos\GitHub\Trabajos\Application2\Application2\obj\Debug\Application2.exe
+C:\Users\danie\OneDrive\Documentos\GitHub\Trabajos\Application2\Application2\obj\Debug\Application2.pdb
