@@ -1,0 +1,18 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPrincipal.resources
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\danie\OneDrive\Desktop\clase_21_03_2019-master\Practica01_03\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
